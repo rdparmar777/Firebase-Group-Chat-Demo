@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "821841898320",
+    "firebase_url": "https://fir-demo-codelab.firebaseio.com",
+    "project_id": "fir-demo-codelab",
+    "storage_bucket": "fir-demo-codelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821841898320:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821841898320-aqb3p4emsoad9c4fj1bujbjf0nqj0jfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "C64AA7A4B9CA9D5700B0A218A8BEFD2593CA73CC"
+          }
+        },
+        {
+          "client_id": "821841898320-6vsm1e8g9ic5di1pfuqq4guh503bf15n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRjb0nFAqFNlEu6Xsau6tVLzQ3bhJPNTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821841898320-6vsm1e8g9ic5di1pfuqq4guh503bf15n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821841898320:android:c1d9462d0c240cac",
+        "android_client_info": {
+          "package_name": "firebase.com.labs.ramdani.mygroupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821841898320-ep94phk7ts5gn9u1qvl0s9ar5v10t8p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.com.labs.ramdani.mygroupchat",
+            "certificate_hash": "C64AA7A4B9CA9D5700B0A218A8BEFD2593CA73CC"
+          }
+        },
+        {
+          "client_id": "821841898320-6vsm1e8g9ic5di1pfuqq4guh503bf15n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRjb0nFAqFNlEu6Xsau6tVLzQ3bhJPNTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821841898320-6vsm1e8g9ic5di1pfuqq4guh503bf15n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
